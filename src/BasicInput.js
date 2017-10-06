@@ -10,6 +10,6 @@ export default {
         return {}
       }
     },
-    value: String
+    value: [String, Number]
   }
 }
